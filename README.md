@@ -1,2 +1,2 @@
-# about-jsx
+# react-intro
 Created with CodeSandbox
